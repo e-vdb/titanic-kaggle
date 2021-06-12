@@ -16,3 +16,5 @@ More info about Titanic shipwreck : visit https://en.wikipedia.org/wiki/Sinking_
 
 ## Repository content 
 
+titanic.ipynb : Jupyter notebook
+
