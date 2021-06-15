@@ -18,3 +18,14 @@ More info about Titanic shipwreck : visit https://en.wikipedia.org/wiki/Sinking_
 
 titanic.ipynb : Jupyter notebook
 
+## Titanic Kaggle competition
+
+### Notebook
+* Data visualisation
+* Pre-processing with pipeline
+* Machine learning model : random forest classifier
+* Evaluation of the accuracy score 
+
+### Competition predictions
+Score = 0.79425
+
