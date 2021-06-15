@@ -16,7 +16,8 @@ More info about Titanic shipwreck : visit https://en.wikipedia.org/wiki/Sinking_
 
 ## Repository content 
 
-titanic.ipynb : Jupyter notebook
+* titanic.ipynb : Jupyter notebook
+* my_submission.csv : predictions for test dataset
 
 ## Titanic Kaggle competition
 
