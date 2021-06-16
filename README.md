@@ -24,6 +24,8 @@ More info about Titanic shipwreck : visit https://en.wikipedia.org/wiki/Sinking_
 ### Notebook
 * Data visualisation
 * Pre-processing with pipeline
+    * Imputer 
+    * One-hot encoding
 * Machine learning model : random forest classifier
 * Evaluation of the accuracy score 
 
