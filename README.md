@@ -31,8 +31,10 @@ More info about Titanic shipwreck : visit https://en.wikipedia.org/wiki/Sinking_
 
 ![diagram](https://user-images.githubusercontent.com/82372483/122390686-8f294500-cf72-11eb-9771-2f4e8e766d00.png)
 
-* Machine learning model : random forest classifier
-* Evaluation of the accuracy score 
+* Machine learning 
+    * Model : Random Forest Classifier
+    * Evaluation of the accuracy score 
+    * Optimisation of model parameters with Grid Search
 
 ### Competition predictions
 Score = 0.79425
